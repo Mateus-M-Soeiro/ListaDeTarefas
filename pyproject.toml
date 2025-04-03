@@ -1,0 +1,9 @@
+[project]
+name = "Lista de Tarefas"  
+requires-python = ">=3.9"
+authors = [
+    { name = "Mateus Soeiro", email = "mateusmsoeiro@outlook.com.br" }
+]
+dependencies = [
+  "flet"
+]
